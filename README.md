@@ -9,7 +9,7 @@ Well, as it is automatically installed in PyCharm or VCS you need to import it! 
 
 Import matplotlib.pyplot as plt . . . . . . . . .  <-- Copy
 # How to make a diagram? 
-First we need to know which diagrama we will make!
+First we need to know which diagram we will make!
 Let's go with donut (circle)
 
 Go to file 'donut.py' and copy the code. Then run it. You will see a circle-diagram!
